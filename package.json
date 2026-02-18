@@ -1,0 +1,16 @@
+{
+  "name": "ts_generics_felles_frontend_fadgdag",
+  "version": "1.0.0",
+  "description": "Til SB1U sin felles frontend-fagdag 19.feb 2026",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3"
+  }
+}
